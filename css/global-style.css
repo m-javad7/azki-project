@@ -39,7 +39,11 @@
     font-family: Vazir;
 }
 a{
+    color: var(--Neutral-500);
     text-decoration: none;
+}
+a:hover{
+    color: var(--Primary-Light);
 }
 button{
     cursor: pointer;
